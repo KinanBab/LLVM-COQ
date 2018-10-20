@@ -1,0 +1,3 @@
+[submodule "Frap"]
+	path = Frap
+	url = https://github.com/achlipala/frap.git
